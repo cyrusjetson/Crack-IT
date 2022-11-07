@@ -1,0 +1,64 @@
+Data Structure
+Algorithms
+DBMS
+Operating System
+Networking
+OOPs concepts and
+A programming language of your choice.
+
+
+Tell me about yourself
+Explanation of projects and algorithms used. Real-life use cases , future scope etc.
+Write code for inorder , postorder , preorder traversals.
+OOPs concept with examples and real life uses
+Questions for array , linkedlist – real life implementations.
+Situation-based questions – If your team resists your idea, what will you do? How do you resolve workplace conflicts? What process might you use to make presentations for clients? Have you ever disagreed with fellow teammates etc.
+Why IBM, where do you see yourself in 5 years ? Why do you want to join our company ? Strengths and Weaknesses ?
+
+What do you mean by 3NF in DBMS?
+What is the operating system?
+What is the difference between Java and C++?
+What is a pointer?
+Tell us more about pointer?
+Write about double linked list programs?
+What is Join in DBMS?
+
+Tell us something about yourself.
+Which is your favourite subject and why?
+Why do you want to work for IBM?
+Would you be interested in joining any other company?
+Would you be comfortable working in shifts?
+What subjects have you done in your project?
+
+Insertion Sort
+Selection Sort
+Linked List
+Explain the different types of database users.
+Collection in Java
+File Handling in Java
+Differentiate between overloading and Overriding
+Differentiate between Abstract Class and Interface
+
+
+The IBM Coding Challenge mainly consists of problems related to data structures and algorithms.
+
+In data structures, you can expect questions from the below topics:
+
+Arrays
+Linked lists
+Stacks
+Queues
+Trees
+Graphs
+Heaps
+Hash Sets
+Hash Maps
+In Algorithms, you can expect questions related to the below topics:
+
+Depth-First Search
+Breadth-First Search
+Binary Search
+Quicksort
+Merge Sort
+Dynamic Programming
+Divide and Conquer
