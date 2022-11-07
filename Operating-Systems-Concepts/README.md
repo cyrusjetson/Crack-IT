@@ -1,0 +1,17 @@
+# Operating-Systems-Concepts
+
+1. [Bankers-Algorithm](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/Bankers-Algorithm)
+2. [Deadlock-Prevention](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/Deadlock-Prevention)
+3. [Disk-Scheduling-Algorithms](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/Disk-Scheduling-Algorithms)
+4. [File-Organization-OS](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/File-Organization-OS)
+5. [IPC-SharedMemory-Different-Process-1](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/IPC-SharedMemory-Different-Process-1)
+6. [IPC-SharedMemory-Different-Process-2](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/IPC-SharedMemory-Different-Process-2)
+7. [IPC-Using-Pipe-1](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/IPC-Using-Pipe-1)
+8. [IPC-Using-Pipe-2](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/IPC-Using-Pipe-2)
+9. [IPC-Using-SharedMemory-1](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/IPC-Using-SharedMemory-1)
+10. [IPC-Using-SharedMemory-2](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/IPC-Using-SharedMemory-2)
+11. [Linked-File-Allocation-Technique](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/Linked-File-Allocation-Technique)
+12. [Memory-Management-Schemes](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/Memory-Management-Schemes)
+13. [Page-Replacement-Algorithms](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/Page-Replacement-Algorithms)
+14. [Process-Scheduling](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/Process-Scheduling)
+15. [Producer-Consumer-Problem](https://github.com/avinash-218/Operating-Systems-Concepts/tree/master/Producer-Consumer-Problem)
